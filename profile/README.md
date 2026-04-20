@@ -50,9 +50,13 @@ Temporal context flows automatically through `AsyncLocalStorage` — every `getC
 
 Strategy functions are unaware of execution mode. Switch from historical simulation to real exchange connectivity by changing one flag.
 
-**LLM as Signal Generator, Not as Indicator Replacement**
+**LLM as Signal Generator**
 
 The framework provides structured pipelines for injecting multi-timeframe technical analysis, order book data, and news sentiment into LLM context — while keeping temporal isolation and validation invariants intact.
+
+**Pine Script indicators if you want to**
+
+Port your existing TradingView strategies to Node.js without rewriting a single line — @backtest-kit/pinets executes Pine Script v5/v6 locally via the PineTS runtime, extracts plot values into typed objects, and feeds them directly into the signal pipeline alongside LLM-generated signals.
 
 ---
 
