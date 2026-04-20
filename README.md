@@ -2,7 +2,7 @@
 
 # 📊 backtest-kit
 
-> **Production-grade algorithmic trading infrastructure for Node.js** — from Pine Script execution and LLM signal generation to live exchange connectivity and interactive dashboards. One codebase for backtest, paper, and live trading.
+> **Production-grade algorithmic trading infrastructure for Node.js** — from Pine Script execution and LLM signal generation to live exchange connectivity and interactive dashboards. One codebase for backtest, paper, and live trading. Telegram notifications included. UI Dashboard included.
 
 ![screenshot](https://raw.githubusercontent.com/tripolskypetr/backtest-kit/HEAD/assets/screenshots/screenshot16.png)
 
