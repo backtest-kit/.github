@@ -1,6 +1,6 @@
 <img src="https://github.com/tripolskypetr/backtest-kit/raw/refs/heads/master/assets/decart.svg" height="55px" align="right">
 
-# 📊 backtest-kit
+# 🧿 backtest-kit
 
 > **Production-grade algorithmic trading infrastructure for Node.js** — from Pine Script execution and LLM signal generation to live exchange connectivity and interactive dashboards. One codebase for backtest, paper, and live trading.
 
