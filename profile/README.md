@@ -71,6 +71,9 @@ A series of in-depth articles documenting the engineering decisions behind the f
 5. [**AI Strategy Workflow**](https://backtest-kit.github.io/documents/article_05_ai_strategy_workflow.html) — AI workflow for identifying and updating liquidation cascade criteria
 6. [**AI Strategy Blueprint**](https://backtest-kit.github.io/documents/article_06_ai_strategy_blueprint.html) — ReAct-pattern LLM trading agent with live test results
 7. [**AI News Trading Signals**](https://backtest-kit.github.io/documents/article_07_ai_news_trading_signals.html) — News sentiment analysis as a trading signal: methodology and backtest
+8. [**AI Liquidity Harvesting**](https://backtest-kit.github.io/documents/article_08_ai_liquidity_harvesting.html) — How to detect and invert manipulative Telegram signal channels
+9. [**Pine Script Local Markets**](https://backtest-kit.github.io/documents/article_09_pinescript_local_markets.html) — Running Pine Script on exchanges not available in TradingView
+10. [**DCA Averaging Strategy**](https://backtest-kit.github.io/documents/article_10_dca_averaging_strategy.html) — Asset price averaging mechanics, drawdown reality, and broker deception
 
 ---
 
