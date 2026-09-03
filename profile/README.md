@@ -77,6 +77,18 @@ A series of in-depth articles documenting the engineering decisions behind the f
 
 ---
 
+## 🧠 Concepts
+
+Architectural and infrastructure concepts behind the framework:
+
+1. [**Monorepo Parallel Execution**](https://backtest-kit.github.io/documents/concept_01_monorepo_parallel_execution.html) — Declarative event-driven strategies in a monorepo, N entry points per mode, ~700× replay speed per symbol
+2. [**Zero Expectation Escape**](https://backtest-kit.github.io/documents/concept_02_zero_expectation_escape.html) — Why every strategy decays to zero EV and how to trade on external capital inflow instead
+3. [**Manual Control Adapter**](https://backtest-kit.github.io/documents/concept_03_manual_control_adapter.html) — Debugging the exchange adapter in an hour via dashboard buttons that pull the same hooks as the strategy
+4. [**Highload Candle Storage**](https://backtest-kit.github.io/documents/concept_04_highload_candle_storage.html) — MinIO vs MongoDB vs PostgreSQL + Pgpool-II for 260M candles, and what Redis lookup actually buys
+5. [**AI Signal Scoring Agent**](https://backtest-kit.github.io/documents/concept_05_ai_signal_scoring_agent.html) — MCP agent that trades Telegram signals in paper mode and rates authors by real Sharpe/Calmar, not their screenshots
+
+---
+
 ## 🔗 Links
 
 - 📖 [Documentation](https://backtest-kit.github.io/documents/article_07_ai_news_trading_signals.html)
